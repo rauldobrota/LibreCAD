@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Add to favorites</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adaugă la favorite</translation>
     </message>
     <message>
         <source>...</source>
@@ -28,14 +28,14 @@
     </message>
     <message>
         <source>Set</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Set</translation>
     </message>
 </context>
 <context>
     <name>DlgSplinePoints</name>
     <message>
         <source>SplinePoints</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Puncte spline</translation>
     </message>
     <message>
         <source>Layer:</source>
@@ -47,7 +47,7 @@
     </message>
     <message>
         <source>Closed</source>
-        <translation type="unfinished">Inchisa</translation>
+        <translation type="unfinished">Închisă</translation>
     </message>
     <message>
         <source>Spline Points</source>
@@ -55,11 +55,11 @@
     </message>
     <message>
         <source>Control Points</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Puncte de control</translation>
     </message>
     <message>
         <source>Points on Spline</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Puncte pe spline</translation>
     </message>
 </context>
 <context>
@@ -79,7 +79,7 @@ distance between points=%2 is larger than diameter=%3</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Renuntare</translation>
+        <translation type="unfinished">Renunţare</translation>
     </message>
     <message>
         <source>Specify second point</source>
@@ -87,11 +87,11 @@ distance between points=%2 is larger than diameter=%3</source>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished">Inapoi</translation>
+        <translation type="unfinished">Înapoi</translation>
     </message>
     <message>
         <source>Select circle center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Selectează centrul cercului</translation>
     </message>
 </context>
 <context>
